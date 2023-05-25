@@ -58,7 +58,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>CRUD en React</h1>
+      <h1>JSON CRUD</h1>
       <Form addData={addData} />
       <Filter filterData={filterData} />
       <DataList
